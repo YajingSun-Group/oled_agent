@@ -38,7 +38,9 @@ cd web
 streamlit run app.py
 ```
 
-
+## Demo
+<video src="assets/video-720.webm" controls width="640"></video>
+<video src="assets/video2-720.webm" controls width="640"></video>
 
 
 
