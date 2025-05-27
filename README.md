@@ -41,6 +41,7 @@ streamlit run app.py
 ## Demo
 <video src="assets/video-720.mp4" controls width="640"></video>
 <video src="assets/video2-720.mp4" controls width="640"></video>
+[video2-720.webm](https://github.com/user-attachments/assets/cc9efb70-5d0f-4ba4-a927-8780376f397f)
 
 
 
