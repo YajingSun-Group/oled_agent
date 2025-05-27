@@ -39,9 +39,15 @@ streamlit run app.py
 ```
 
 ## Demo
-<video src="assets/video-720.mp4" controls width="640"></video>
-<video src="assets/video2-720.mp4" controls width="640"></video>
-[video2-720.webm](https://github.com/user-attachments/assets/cc9efb70-5d0f-4ba4-a927-8780376f397f)
+
+
+
+
+https://github.com/user-attachments/assets/2e5dd487-45b3-4262-ba4a-0b4ceb60b6aa
+
+
+
+https://github.com/user-attachments/assets/855b9cac-54a7-4eec-b877-93df8da5e628
 
 
 
