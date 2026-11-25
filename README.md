@@ -49,17 +49,6 @@ https://github.com/user-attachments/assets/2e5dd487-45b3-4262-ba4a-0b4ceb60b6aa
 
 https://github.com/user-attachments/assets/855b9cac-54a7-4eec-b877-93df8da5e628
 
+## License
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Original code in this repository may be used, copied, and modified for non-commercial academic research, teaching, and reproducibility. Commercial use requires prior written permission from the copyright holder. Third-party materials remain subject to their own licenses. See [LICENSE](LICENSE).
